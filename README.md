@@ -1,8 +1,8 @@
 # SIAAppChallenge2018-ZestIOT
 POC Code by Zestiot team for Tracking F&amp;B consumption
 
-1. main_video.py : This is poc to capture the leftover food from camera and identify the type of food from color coding.
-2. wastage_calculation.py : This is poc to calculate thhe wastage from the information captured from camera and passenger list and uplift plan coming from SIA API. 
+1. main_video.py : This is poc code to capture the leftover food from camera and identify the type of food from color coding.
+2. wastage_calculation.py : This is poc code to calculate the wastage from the information captured from camera and passenger list and uplift plan coming from SIA API. 
 
 Follow these steps to run the code
 
